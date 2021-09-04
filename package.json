@@ -1,0 +1,9 @@
+{
+    "name": "calendar",
+    "version": "1.0.0",
+    "main": "calendar.js",
+    "license": "MIT",
+    "dependencies": {
+        "moment": "^2.29.1"
+    }
+}
